@@ -1,3 +1,26 @@
 <resources>
     <string name="app_name">SeaNote</string>
+
+    <string name="bottom_nav_favorite">Избранные</string>
+    <string name="bottom_nav_home">Все заметки</string>
+    <string name="bottom_nav_delete">Удалить</string>
+
+    <string name="bottom_bar_list">Список</string>
+    <string name="bottom_bar_format">Формат</string>
+    <string name="bottom_bar_favorite">В избранное</string>
+
+    <string name="format_dialog_font">Шрифт</string>
+    <string name="format_dialog_color">Цвет</string>
+    <string name="format_dialog_background">Фон</string>
+
+    <string name="search_hint">Найти заметку</string>
+    <string name="search_none_result">ПО запросу ничего не найдено</string>
+
+    <string name="app_bar_menu_delete_all">Удалить элементы</string>
+    <string name="app_bar_menu_add_favorite_all">Добавить в избранное</string>
+
+    <string name="app_bar_menu_delete">Удалить заметку</string>
+    <string name="app_bar_menu_add_image">Добавить изображение</string>
+    <string name="app_bar_menu_share">Поделиться</string>
+
 </resources>
