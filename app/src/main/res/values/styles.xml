@@ -37,5 +37,10 @@
         <item name="android:textSize">12sp</item>
     </style>
 
+    <style name="TestNavBar">
+        <item name="itemIconTint">@drawable/selector_icon_color</item>
+        <item name="itemTextColor">@drawable/selector_icon_color</item>
+    </style>
+
 
 </resources>
