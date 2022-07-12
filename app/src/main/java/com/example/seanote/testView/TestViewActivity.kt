@@ -26,6 +26,7 @@ class TestViewActivity : AppCompatActivity() {
                     true
                 }
                 R.id.test_menu_2 -> {
+                    transferToFragment(TestWidgetFragment.newInstance())
                     true
                 }
                 R.id.test_menu_3 -> {
