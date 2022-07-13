@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="SeaNoteText">
+        <item name="textAllCaps">false</item>
+    </style>
+
+    <style name="TextBold" parent="SeaNoteText">
+        <item name="fontFamily">@font/nunito_bold</item>
+    </style>
+
+    <style name="TextBold.Small">
+        <item name="android:textSize">20sp</item>
+    </style>
+
+    <style name="TextSemiBold" parent="SeaNoteText">
+        <item name="fontFamily">@font/nunito_semibold</item>
+    </style>
+
+    <style name="TextSemiBold.Big">
+        <item name="android:textSize">20sp</item>
+    </style>
+
+    <style name="TextSemiBold.Small">
+        <item name="android:textSize">14sp</item>
+    </style>
+
+    <style name="TextRegular" parent="SeaNoteText">
+        <item name="fontFamily">@font/nunito_regular</item>
+    </style>
+
+    <style name="TextRegular.Big">
+        <item name="android:textSize">14sp</item>
+    </style>
+
+    <style name="TextRegular.Small">
+        <item name="android:textSize">12sp</item>
+    </style>
+
+    <style name="TestNavBar">
+        <item name="itemIconTint">@drawable/selector_icon_color</item>
+        <item name="itemTextColor">@drawable/selector_icon_color</item>
+    </style>
+
+
+</resources>
